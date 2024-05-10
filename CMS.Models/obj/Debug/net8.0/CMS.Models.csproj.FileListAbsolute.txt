@@ -1,0 +1,12 @@
+C:\Users\horiz\Desktop\CMS\CMS\CMS.Models\bin\Debug\net8.0\CMS.Models.deps.json
+C:\Users\horiz\Desktop\CMS\CMS\CMS.Models\bin\Debug\net8.0\CMS.Models.dll
+C:\Users\horiz\Desktop\CMS\CMS\CMS.Models\bin\Debug\net8.0\CMS.Models.pdb
+C:\Users\horiz\Desktop\CMS\CMS\CMS.Models\obj\Debug\net8.0\CMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horiz\Desktop\CMS\CMS\CMS.Models\obj\Debug\net8.0\CMS.Models.AssemblyInfoInputs.cache
+C:\Users\horiz\Desktop\CMS\CMS\CMS.Models\obj\Debug\net8.0\CMS.Models.AssemblyInfo.cs
+C:\Users\horiz\Desktop\CMS\CMS\CMS.Models\obj\Debug\net8.0\CMS.Models.csproj.CoreCompileInputs.cache
+C:\Users\horiz\Desktop\CMS\CMS\CMS.Models\obj\Debug\net8.0\CMS.Models.sourcelink.json
+C:\Users\horiz\Desktop\CMS\CMS\CMS.Models\obj\Debug\net8.0\CMS.Models.dll
+C:\Users\horiz\Desktop\CMS\CMS\CMS.Models\obj\Debug\net8.0\refint\CMS.Models.dll
+C:\Users\horiz\Desktop\CMS\CMS\CMS.Models\obj\Debug\net8.0\CMS.Models.pdb
+C:\Users\horiz\Desktop\CMS\CMS\CMS.Models\obj\Debug\net8.0\ref\CMS.Models.dll

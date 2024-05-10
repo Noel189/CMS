@@ -1,0 +1,33 @@
+﻿@using CMS.Models.Models
+@model List<Members>
+
+<h1>Member List</h1>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Address</th>
+            <th>Member Since</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach(var obj in Model.OrderBy(u=>u.FirstName))
+        {
+            
+   
+        <tr>
+                <td>@obj.FirstName</td>
+                <td>@obj.LastName</td>
+                <td>@obj.Email</td>
+                <td>@obj.Phone</td>
+                <td>@obj.Address</td>
+                <td>@obj.MemberSince</td>
+        </tr>
+        }
+    </tbody>
+
+</table>

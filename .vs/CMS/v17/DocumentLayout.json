@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4E217B15-F6C2-4905-8EC9-E771F070E4BA}|CMS\\CMS.csproj|c:\\users\\horiz\\desktop\\cms\\cms\\cms\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E217B15-F6C2-4905-8EC9-E771F070E4BA}|CMS\\CMS.csproj|solutionrelative:cms\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E217B15-F6C2-4905-8EC9-E771F070E4BA}|CMS\\CMS.csproj|c:\\users\\horiz\\desktop\\cms\\cms\\cms\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E217B15-F6C2-4905-8EC9-E771F070E4BA}|CMS\\CMS.csproj|solutionrelative:cms\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4E217B15-F6C2-4905-8EC9-E771F070E4BA}|CMS\\CMS.csproj|c:\\users\\horiz\\desktop\\cms\\cms\\cms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4E217B15-F6C2-4905-8EC9-E771F070E4BA}|CMS\\CMS.csproj|solutionrelative:cms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E217B15-F6C2-4905-8EC9-E771F070E4BA}|CMS\\CMS.csproj|c:\\users\\horiz\\desktop\\cms\\cms\\cms\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4E217B15-F6C2-4905-8EC9-E771F070E4BA}|CMS\\CMS.csproj|solutionrelative:cms\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E217B15-F6C2-4905-8EC9-E771F070E4BA}|CMS\\CMS.csproj|c:\\users\\horiz\\desktop\\cms\\cms\\cms\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4E217B15-F6C2-4905-8EC9-E771F070E4BA}|CMS\\CMS.csproj|solutionrelative:cms\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,41 +50,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CMS\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CMS\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAABwAAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-08T19:48:54.894Z",
+              "WhenOpened": "2024-05-10T20:15:35.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Views\\Member\\Index.cshtml",
+              "RelativeDocumentMoniker": "CMS\\Views\\Member\\Index.cshtml",
+              "ToolTip": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Views\\Member\\Index.cshtml",
+              "RelativeToolTip": "CMS\\Views\\Member\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T20:10:54.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Views\\Events\\Index.cshtml",
-              "RelativeDocumentMoniker": "CMS\\Views\\Events\\Index.cshtml",
-              "ToolTip": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Views\\Events\\Index.cshtml",
-              "RelativeToolTip": "CMS\\Views\\Events\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-08T19:48:34.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Views\\Contact\\Index.cshtml",
-              "RelativeDocumentMoniker": "CMS\\Views\\Contact\\Index.cshtml",
-              "ToolTip": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Views\\Contact\\Index.cshtml",
-              "RelativeToolTip": "CMS\\Views\\Contact\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-08T19:47:59.161Z",
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "CMS\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "CMS\\Controllers\\MemberController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T19:49:40.326Z",
               "EditorCaption": ""
             }
           ]
