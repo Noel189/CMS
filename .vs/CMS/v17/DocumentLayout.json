@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4E217B15-F6C2-4905-8EC9-E771F070E4BA}|CMS\\CMS.csproj|c:\\users\\horiz\\desktop\\cms\\cms\\cms\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E217B15-F6C2-4905-8EC9-E771F070E4BA}|CMS\\CMS.csproj|solutionrelative:cms\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4E217B15-F6C2-4905-8EC9-E771F070E4BA}|CMS\\CMS.csproj|c:\\users\\horiz\\desktop\\cms\\cms\\cms\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4E217B15-F6C2-4905-8EC9-E771F070E4BA}|CMS\\CMS.csproj|solutionrelative:cms\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,8 +15,36 @@
       "RelativeMoniker": "D:0:0:{4E217B15-F6C2-4905-8EC9-E771F070E4BA}|CMS\\CMS.csproj|solutionrelative:cms\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Migrations\\20240511202728_SeedMemberTbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMS\\Migrations\\20240511202728_SeedMemberTbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82981B45-776E-4094-9866-077E076B6984}|CMS.DataAccess\\CMS.DataAccess.csproj|c:\\users\\horiz\\desktop\\cms\\cms\\cms.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82981B45-776E-4094-9866-077E076B6984}|CMS.DataAccess\\CMS.DataAccess.csproj|solutionrelative:cms.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Migrations\\20240511201736_AddMemberTblToDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMS\\Migrations\\20240511201736_AddMemberTblToDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75588F6C-2EA5-41B1-90DB-8E3D82275665}|CMS.Models\\CMS.Models.csproj|c:\\users\\horiz\\desktop\\cms\\cms\\cms.models\\models\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75588F6C-2EA5-41B1-90DB-8E3D82275665}|CMS.Models\\CMS.Models.csproj|solutionrelative:cms.models\\models\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E217B15-F6C2-4905-8EC9-E771F070E4BA}|CMS\\CMS.csproj|c:\\users\\horiz\\desktop\\cms\\cms\\cms\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4E217B15-F6C2-4905-8EC9-E771F070E4BA}|CMS\\CMS.csproj|solutionrelative:cms\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E217B15-F6C2-4905-8EC9-E771F070E4BA}|CMS\\CMS.csproj|c:\\users\\horiz\\desktop\\cms\\cms\\cms\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4E217B15-F6C2-4905-8EC9-E771F070E4BA}|CMS\\CMS.csproj|solutionrelative:cms\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4E217B15-F6C2-4905-8EC9-E771F070E4BA}|CMS\\CMS.csproj|c:\\users\\horiz\\desktop\\cms\\cms\\cms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4E217B15-F6C2-4905-8EC9-E771F070E4BA}|CMS\\CMS.csproj|solutionrelative:cms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E217B15-F6C2-4905-8EC9-E771F070E4BA}|CMS\\CMS.csproj|c:\\users\\horiz\\desktop\\cms\\cms\\cms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E217B15-F6C2-4905-8EC9-E771F070E4BA}|CMS\\CMS.csproj|solutionrelative:cms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,41 +82,145 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "CMS\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "CMS\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T20:15:35.656Z",
+              "DocumentIndex": 3,
+              "Title": "20240511202728_SeedMemberTbl.cs",
+              "DocumentMoniker": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Migrations\\20240511202728_SeedMemberTbl.cs",
+              "RelativeDocumentMoniker": "CMS\\Migrations\\20240511202728_SeedMemberTbl.cs",
+              "ToolTip": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Migrations\\20240511202728_SeedMemberTbl.cs",
+              "RelativeToolTip": "CMS\\Migrations\\20240511202728_SeedMemberTbl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T20:27:28.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "CMS\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "CMS\\Controllers\\MemberController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T19:49:40.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Views\\Member\\Index.cshtml",
               "RelativeDocumentMoniker": "CMS\\Views\\Member\\Index.cshtml",
               "ToolTip": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Views\\Member\\Index.cshtml",
               "RelativeToolTip": "CMS\\Views\\Member\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA4AAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAA8AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-10T20:10:54.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MemberController.cs",
-              "DocumentMoniker": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Controllers\\MemberController.cs",
-              "RelativeDocumentMoniker": "CMS\\Controllers\\MemberController.cs",
-              "ToolTip": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Controllers\\MemberController.cs",
-              "RelativeToolTip": "CMS\\Controllers\\MemberController.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Views\\Member\\Create.cshtml",
+              "RelativeDocumentMoniker": "CMS\\Views\\Member\\Create.cshtml",
+              "ToolTip": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Views\\Member\\Create.cshtml*",
+              "RelativeToolTip": "CMS\\Views\\Member\\Create.cshtml*",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T18:04:03.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CMS.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CMS.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAC8AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T19:49:40.326Z",
+              "WhenOpened": "2024-05-11T20:03:17.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240511201736_AddMemberTblToDb.cs",
+              "DocumentMoniker": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Migrations\\20240511201736_AddMemberTblToDb.cs",
+              "RelativeDocumentMoniker": "CMS\\Migrations\\20240511201736_AddMemberTblToDb.cs",
+              "ToolTip": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Migrations\\20240511201736_AddMemberTblToDb.cs",
+              "RelativeToolTip": "CMS\\Migrations\\20240511201736_AddMemberTblToDb.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T20:17:36.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Members.cs",
+              "DocumentMoniker": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS.Models\\Models\\Members.cs",
+              "RelativeDocumentMoniker": "CMS.Models\\Models\\Members.cs",
+              "ToolTip": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS.Models\\Models\\Members.cs",
+              "RelativeToolTip": "CMS.Models\\Models\\Members.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:13:57.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAHI6AAAAAAAAAAAUwHg6AAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-11T19:55:11.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CMS\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CMS\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-11T19:52:24.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CMS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CMS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T19:29:41.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Program.cs",
+              "RelativeDocumentMoniker": "CMS\\Program.cs",
+              "ToolTip": "C:\\Users\\horiz\\Desktop\\CMS\\CMS\\CMS\\Program.cs",
+              "RelativeToolTip": "CMS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:07:32.78Z",
               "EditorCaption": ""
             }
           ]

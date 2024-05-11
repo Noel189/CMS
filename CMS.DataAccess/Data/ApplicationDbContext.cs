@@ -29,7 +29,7 @@ namespace CMS.DataAccess.Data
                     Address = "466 dummy address",
                     Email = "dummy@gmail.com",
                     Phone = "555-888-666",
-                    MemberSince = DateTime.Now
+                    MemberSince="11/05/2024"
 
                 },
                       new Members
@@ -40,7 +40,7 @@ namespace CMS.DataAccess.Data
                           Address = "466 dummy address",
                           Email = "dummy2@gmail.com",
                           Phone = "555-888-888",
-                          MemberSince = DateTime.Now
+                          MemberSince = "11/05/2024"
 
                       },
                             new Members
@@ -51,7 +51,7 @@ namespace CMS.DataAccess.Data
                                 Address = "466 dummy address",
                                 Email = "dummy3@gmail.com",
                                 Phone = "555-888-777",
-                                MemberSince = DateTime.Now
+                                MemberSince = "11/05/2024"
 
                             });
         }

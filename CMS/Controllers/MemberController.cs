@@ -16,5 +16,17 @@ namespace CMS.Controllers
             List<Members> members = _db.Membertbl.ToList(); 
             return View(members);
         }
+
+        public IActionResult Create()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult Create(Members obj)
+        {
+            _db.Membertbl.Add(obj);
+            _db.SaveChanges();  
+            return RedirectToAction("Index");
+        }
     }
 }
