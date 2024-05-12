@@ -8,8 +8,8 @@
             <hr />
         </div>
 
-        <div class="row"> 
-            <div class="col-6">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3"> 
+            @* <div class="col-6"> *@
                 <div class="mb-3 p-1">
                     <label asp-for="FirstName" class="p-0"></label>
                     <input asp-for="FirstName" type="text" class="form-control" />
@@ -22,8 +22,8 @@
                     <label asp-for="Email" class="p-0"></label>
                     <input asp-for="Email" type="email" class="form-control" />
                 </div>
-            </div>
-            <div class="col-6">
+            @* </div> *@
+            @* <div class="col-6"> *@
                 <div class="mb-3 p-1">
                     <label asp-for="Phone" class="p-0"></label>
                     <input asp-for="Phone" type="text" class="form-control" />
@@ -36,7 +36,7 @@
                     <label asp-for="MemberSince" class="p-0"></label>
                     <input asp-for="MemberSince" type="text" class="form-control datepicker" />
                 </div>
-            </div>
+            @* </div> *@
         </div>
         <div class="row">
             <div class="col-6 col-md-3">
