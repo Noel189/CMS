@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CMS.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdae066cc1a8ef7f199588e756345e221c7e5d64")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1a9d3f394b8d7ee0f4f0c82caf190e9519bcd8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CMS.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CMS.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
